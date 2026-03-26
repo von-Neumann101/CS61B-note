@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/note.md",
+                "file": "3. DataStructure and Algorithm/L11 渐进分析1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "note"
+              "title": "L11 渐进分析1"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dbcd6ff29607f5c9",
@@ -183,38 +184,40 @@
       "bases:新建数据库": false
     }
   },
-  "active": "103c6e47c610e315",
+  "active": "704f213cc9a7a8b5",
   "lastOpenFiles": [
+    "3. DataStructure and Algorithm/Pic/Pasted image 20260326171625.png",
+    "3. DataStructure and Algorithm/Pic/Pasted image 20260326170643.png",
+    "3. DataStructure and Algorithm/Pic/Pasted image 20260326170413.png",
+    "3. DataStructure and Algorithm/Pic/Pasted image 20260326170007.png",
+    "3. DataStructure and Algorithm/Pic/Pasted image 20260326165259.png",
+    "3. DataStructure and Algorithm/Pic",
     "README.md",
+    "3. DataStructure and Algorithm/L11 渐进分析1.md",
+    "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/note.md",
+    "3. DataStructure and Algorithm",
     "新建 文本文档.txt",
     "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/Pic/Pasted image 20260325093411.png",
     "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/Pic/Pasted image 20260325090017.png",
     "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/Pic",
     "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/note.md",
-    "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/note.md",
     "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods",
     "2. Scope, Static, Linked Lists, Arrays/未命名.md",
     "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324202012.png",
     "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324201955.png",
     "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324201200.png",
     "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324201010.png",
-    "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324200458.png",
     "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic",
     "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance/note.md",
     "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions",
-    "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance/Pic/Pasted image 20260324153734.png",
-    "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance/Pic/Pasted image 20260324153041.png",
     "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance/Pic",
     "2. Scope, Static, Linked Lists, Arrays/L7 ArrayLists, Resizing/note.md",
-    "2. Scope, Static, Linked Lists, Arrays/L7 ArrayLists, Resizing/Pic/Pasted image 20260323164745.png",
     "2. Scope, Static, Linked Lists, Arrays/L7 ArrayLists, Resizing/Pic",
     "1. Introduction to Java/L2 Java base/note.md",
     "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance",
     "1. Introduction to Java/L3 Reference Recursion intList/note.md",
     "2. Scope, Static, Linked Lists, Arrays/L6 Testing/note.md",
-    "2. Scope, Static, Linked Lists, Arrays/L7 ArrayLists, Resizing",
     "1. Introduction to Java/L5 List/note.md",
-    "2. Scope, Static, Linked Lists, Arrays/L6 Testing",
     "1. Introduction to Java/L4 SLList/note.md",
     "1. Introduction to Java/L1 Intro/note.md",
     "欢迎.md"
