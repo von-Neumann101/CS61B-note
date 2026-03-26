@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "72ae2555320db0a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b20339b606cff74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "704f213cc9a7a8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "note"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8e97c14eee4cc5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "64fb4792d857e2eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "103c6e47c610e315",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0e6d3244ef46a3ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7f2dc540327e86a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dbcd6ff29607f5c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "588a97306d359d0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb5e94c70b6926b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "L1 Intro/note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "note 的反向链接列表"
+            }
+          },
+          {
+            "id": "b3fd7a7bf3a79bb2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "L1 Intro/note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "note 的出链列表"
+            }
+          },
+          {
+            "id": "c2ec953676d06506",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "5632796b96ba439b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "157320b66a123b07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "L1 Intro/note.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "note 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "704f213cc9a7a8b5",
+  "lastOpenFiles": [
+    "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/Pic/Pasted image 20260325093411.png",
+    "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/Pic/Pasted image 20260325090017.png",
+    "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/Pic",
+    "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/note.md",
+    "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods/note.md",
+    "2. Scope, Static, Linked Lists, Arrays/L10 Iterators, Object Methods",
+    "2. Scope, Static, Linked Lists, Arrays/未命名.md",
+    "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324202012.png",
+    "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324201955.png",
+    "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324201200.png",
+    "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324201010.png",
+    "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic/Pasted image 20260324200458.png",
+    "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions/Pic",
+    "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance/note.md",
+    "2. Scope, Static, Linked Lists, Arrays/L9 Subtype Polymorphism, Comparators, Comparables, Generic Functions",
+    "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance/Pic/Pasted image 20260324153734.png",
+    "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance/Pic/Pasted image 20260324153041.png",
+    "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance/Pic",
+    "2. Scope, Static, Linked Lists, Arrays/L7 ArrayLists, Resizing/note.md",
+    "2. Scope, Static, Linked Lists, Arrays/L7 ArrayLists, Resizing/Pic/Pasted image 20260323164745.png",
+    "2. Scope, Static, Linked Lists, Arrays/L7 ArrayLists, Resizing/Pic",
+    "1. Introduction to Java/L2 Java base/note.md",
+    "2. Scope, Static, Linked Lists, Arrays/L8 Interface and Implementation Inheritance",
+    "1. Introduction to Java/L3 Reference Recursion intList/note.md",
+    "2. Scope, Static, Linked Lists, Arrays/L6 Testing/note.md",
+    "2. Scope, Static, Linked Lists, Arrays/L7 ArrayLists, Resizing",
+    "1. Introduction to Java/L5 List/note.md",
+    "2. Scope, Static, Linked Lists, Arrays/L6 Testing",
+    "2. Scope, Static, Linked Lists, Arrays",
+    "1. Introduction to Java/L5 List/Pic/Pasted image 20260320090654.png",
+    "1. Introduction to Java/L4 SLList/note.md",
+    "1. Introduction to Java/L1 Intro/note.md",
+    "欢迎.md"
+  ]
+}
