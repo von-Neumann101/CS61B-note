@@ -1,5 +1,3 @@
 {
-  "promptDelete": false,
-  "attachmentFolderPath": "./Pic",
-  "foldHeading": false
+  "attachmentFolderPath": "./Pic"
 }
