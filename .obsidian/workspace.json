@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dbcd6ff29607f5c9",
@@ -185,6 +186,13 @@
   },
   "active": "c6d76ac0d0697800",
   "lastOpenFiles": [
+    "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic/Pasted image 20260328084258.png",
+    "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic/Pasted image 20260328084112.png",
+    "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic/Pasted image 20260328083757.png",
+    "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic/Pasted image 20260328082606.png",
+    "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic/Pasted image 20260328082058.png",
+    "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic/Pasted image 20260328081921.png",
+    "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic/Pasted image 20260328081551.png",
     "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic/Pasted image 20260327204545.png",
     "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic",
     "3. DataStructure and Algorithm/L14 不交集/note.md",
@@ -195,13 +203,6 @@
     "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327202012.png",
     "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327201836.png",
     "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327201310.png",
-    "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327200948.png",
-    "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327200635.png",
-    "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327193327.png",
-    "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327193118.png",
-    "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327190810.png",
-    "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327170339.png",
-    "3. DataStructure and Algorithm/L14 不交集/Pic/Pasted image 20260327170014.png",
     "3. DataStructure and Algorithm/L13 渐进分析3/note.md",
     "3. DataStructure and Algorithm/L14 不交集",
     "3. DataStructure and Algorithm/L13 渐进分析3/Pic",
