@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dbcd6ff29607f5c9",
@@ -184,8 +183,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "c6d76ac0d0697800",
+  "active": "103c6e47c610e315",
   "lastOpenFiles": [
+    "3. DataStructure and Algorithm/L17 Red Black Trees",
+    "3. DataStructure and Algorithm/L16 B-trees/Pic/Pasted image 20260328182906.png",
     "3. DataStructure and Algorithm/L16 B-trees/Pic/Pasted image 20260328161332.png",
     "3. DataStructure and Algorithm/L16 B-trees/Pic/Pasted image 20260328160441.png",
     "3. DataStructure and Algorithm/L16 B-trees/Pic/Pasted image 20260328160347.png",
@@ -195,20 +196,18 @@
     "3. DataStructure and Algorithm/L16 B-trees/Pic/Pasted image 20260328155519.png",
     "3. DataStructure and Algorithm/L16 B-trees/Pic/Pasted image 20260328155510.png",
     "3. DataStructure and Algorithm/L16 B-trees/Pic/Pasted image 20260328154950.png",
-    "3. DataStructure and Algorithm/L16 B-trees/Pic/Pasted image 20260328153406.png",
     "3. DataStructure and Algorithm/L16 B-trees/Pic",
     "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/note.md",
     "3. DataStructure and Algorithm/L16 B-trees/note.md",
     "3. DataStructure and Algorithm/L16 B-trees",
     "3. DataStructure and Algorithm/渐进分析",
-    "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic/Pasted image 20260328084258.png",
     "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs/Pic",
-    "3. DataStructure and Algorithm/L14 不交集/note.md",
+    "3. DataStructure and Algorithm/L14 Disjoint Set/note.md",
     "3. DataStructure and Algorithm/L15 Extends, Sets, Maps, and BSTs",
     "3. DataStructure and Algorithm/未命名.md",
-    "3. DataStructure and Algorithm/L14 不交集/Pic",
+    "3. DataStructure and Algorithm/L14 Disjoint Set/Pic",
     "3. DataStructure and Algorithm/渐进分析/L13 渐进分析3/note.md",
-    "3. DataStructure and Algorithm/L14 不交集",
+    "3. DataStructure and Algorithm/L14 Disjoint Set",
     "3. DataStructure and Algorithm/渐进分析/L13 渐进分析3/Pic",
     "3. DataStructure and Algorithm/渐进分析/L12 渐进分析2/note.md",
     "3. DataStructure and Algorithm/渐进分析/L13 渐进分析3",
