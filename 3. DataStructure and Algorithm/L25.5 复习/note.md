@@ -47,7 +47,7 @@ $k$的前驱是$g$，后继是$m$
 [[3. DataStructure and Algorithm/L17 B-trees/note|B-tree]]
 用于**存储无重数据**，任何插入顺序下都能**保持平衡**
 
-该数据结构的方法和[[3. DataStructure and Algorithm/L26.5 复习/note#BST|BST]]一致
+该数据结构的方法和[[3. DataStructure and Algorithm/L25.5 复习/note#BST|BST]]一致
 
 B-tree有一个超参数L，是每一个节点可容纳的数据个数：
 - BST——L=1
@@ -65,7 +65,7 @@ B-tree有如下性质
 [[3. DataStructure and Algorithm/L18 Red Black Trees/note|LLRBs]]
 用于**存储无重数据**，任何插入顺序下都能**保持平衡**，每个LLRBs都和一个2-3 tree等价
 
-该数据结构的方法和[[3. DataStructure and Algorithm/L26.5 复习/note#BST|BST]]一致
+该数据结构的方法和[[3. DataStructure and Algorithm/L25.5 复习/note#BST|BST]]一致
 
 其主体仍为BST，只不过有部分左倾边是红色（颜色对查找等所有操作都没有影响），通过**树旋转**来维护其平衡性
 
@@ -90,7 +90,7 @@ B.right = A
 [[3. DataStructure and Algorithm/L19 Hashing I/note|HashSet1]] & [[3. DataStructure and Algorithm/L20 Hashing II/note|HashSet2]]
 **用于存储数据**（无序）
 
-该数据结构的方法和[[3. DataStructure and Algorithm/L26.5 复习/note#BST|BST]]一致
+该数据结构的方法和[[3. DataStructure and Algorithm/L25.5 复习/note#BST|BST]]一致
 
 HashSet由 *桶* 和 *链表* 组成，我们把所有的数据按照一定的方式分类存储(hashCode)
 ![[Pasted image 20260410165958.png|213]]
