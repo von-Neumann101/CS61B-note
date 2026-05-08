@@ -1,6 +1,6 @@
 
 给定一个无向图，检测其是否含有环
-1. DFS（一直走直到遇到标记的顶点），其时间复杂度是O(V+E)[[3. DataStructure and Algorithm/L23 BFS, DFS and implementations/note#^80d554|时间复杂度]]
+1. DFS（一直走直到遇到标记的顶点），其时间复杂度是O(V+E)[[3. DataStructure and Algorithm/L23 BFS, DFS and implementations/L23 BFS, DFS and implementations#^80d554|时间复杂度]]
 2. WeightQuickUnionUF，我们把融合遇到的顶点，如果一个顶点的两边都被连接——环，其时间复杂度是O(V+E$\alpha$(V))
 # 最小生成树（MST）
 生成树定义：无向图的一个子图，所有顶点在子图中可到达，且无环，并且包含所有的顶点
